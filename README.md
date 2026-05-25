@@ -149,16 +149,6 @@ Loss function:
 
 ---
 
-# 📖 Citation
-
-```bibtex
-@article{medifact2026mediqacore,
-  title={MediFact at MEDIQA-CORE-Task-2 2026: Interaction-Aware Multimodal Fusion for Fine-Grained Radiology Report Discrepancy Analysis},
-  author={Nadia Saeed},
-  journal={ImageCLEFmed MEDIQA-CORE 2026},
-  year={2026}
-}
-```
 
 ---
 
